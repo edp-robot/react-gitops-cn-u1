@@ -1,0 +1,1 @@
+1. Application react-gitops-cn-u1 has been successfully deployed!!
